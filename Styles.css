@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+#titre{
+   color: rgb(0, 0, 0);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 10%;
+    box-shadow: 0px 5px 10px 0px #181515
+}
+
+.navlink a {
+        text-align: center;
+        font-size: 18px;
+        padding-right: 160px;
+        color: black;
+       
+    }
+
+
+button {
+    padding: 9px 25px;
+    background-color: rgba(0, 136, 169, 1);
+    border: none;
+    border-radius: 50px;   
+}

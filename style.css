@@ -1,0 +1,14 @@
+#titre{
+        color: grey;
+}
+#img{
+    width: 200px ;
+    height: 200px ;
+}
+#contact{
+    background-color: aliceblue;
+    color: rgb(153, 155, 158);
+    margin: 5px ;
+    padding: 10px;
+    border-radius: 10px;
+}
